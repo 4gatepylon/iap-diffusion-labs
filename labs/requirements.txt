@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+numpy
+scikit-learn
+matplotlib
+tqdm
+seaborn
+celluloid
+ipython
+notebook
+ipykernel
